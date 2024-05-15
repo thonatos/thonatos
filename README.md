@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+a software engineer, focus on front-end and architecture.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thonatos&theme=dracula&bg_color=30,829a82,8264ff&title_color=fff&text_color=fff)](https://github.com/thonatos)
+
 
 ```
  ______         __  _____              ____            
